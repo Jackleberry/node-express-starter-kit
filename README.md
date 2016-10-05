@@ -1,6 +1,6 @@
 #Node Express Server Starter Kit
 
-```npm install```
+`npm install`
 
-``npm start```
+`npm start`
 
