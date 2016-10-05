@@ -11,6 +11,6 @@ app.listen(port, (error) => {
   if (error) {
       console.log(error);
   } else {
-    console.log(`Running noob board api on http://localhost:${port}`);
+    console.log(`Running api on http://localhost:${port}`);
   }
 });
